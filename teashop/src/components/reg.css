@@ -1,0 +1,23 @@
+.container1 {
+    max-width: 500px;
+    background-color: #cad2db;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  h2 {
+    color: #007bff;
+    margin-bottom: 20px;
+  }
+  
+  .form-custom input {
+    border-radius: 4px;
+  }
+  
+  .btn-primary {
+    width: 100%;
+    padding: 10px;
+  }
+/* LoginForm.css */
+
